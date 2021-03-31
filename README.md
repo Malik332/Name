@@ -6,4 +6,4 @@ Character Name generator
 > git clone https://github.com/Malik332/Name
 > python name.py
 ### contact us
-[!Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-orange)](www.instagram.com/malik_atiquz_.zaman)
+[![Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-orange)](www.instagram.com/malik_atiquz_.zaman)
